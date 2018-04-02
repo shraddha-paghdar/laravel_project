@@ -1,0 +1,4 @@
+
+{{$type}}
+<br>
+thank you

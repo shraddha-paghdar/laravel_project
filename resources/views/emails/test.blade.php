@@ -1,0 +1,2 @@
+{{$type}}
+Thank you!!
